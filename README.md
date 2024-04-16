@@ -1,2 +1,2 @@
 # zevien-internship
-My projects as a intern at zevien technologies
+My projects as an intern in zevien technologies
